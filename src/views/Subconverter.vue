@@ -283,9 +283,14 @@ export default {
             label: "Lotus Online",
             options: [
               {
-                label: "全分组 🔞🔬🛑 (for📱)",
+                label: "全分组 🔞🔬🛑 (for🤖📱)",
                 value:
                   "https://raw.githubusercontent.com/L0tus0/l0tus0-web/master/rule%26config/config/Full_NoAd_Scholar_AAD.ini"
+              },
+              {
+                label: "全分组 🔞🔬🛑 (for🍎📱)",
+                value:
+                  "https://raw.githubusercontent.com/L0tus0/l0tus0-web/master/rule%26config/config/Full_NoAd_Scholar_Apple_AAD.ini"
               },
               {
                 label: "全分组 多模式 🔞🔬🛑 (for🖥@🎓️)",
@@ -298,7 +303,7 @@ export default {
                   "https://raw.githubusercontent.com/L0tus0/l0tus0-web/master/rule%26config/config/Full_Multi_NoAd.ini"
               },
               {
-                label: "全分组 🔞🔬🆎 (for📱)",
+                label: "全分组 🔞🔬🆎 (for🤖📱)",
                 value:
                   "https://raw.githubusercontent.com/L0tus0/l0tus0-web/master/rule%26config/config/Full_NoAd_Scholar_ABP.ini"
               },
